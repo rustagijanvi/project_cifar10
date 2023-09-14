@@ -1,2 +1,6 @@
-# project_cifar10
-The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. In this project we  predict correct class for every image in the test dataset
+# "Image Classification with CIFAR-10 Dataset"
+The "Image Classification with CIFAR-10 Dataset" project is a machine learning and computer vision endeavor that focuses on classifying a collection of 60,000 32x32 color images into ten distinct classes. The CIFAR-10 dataset is a well-known benchmark in the field of image recognition and machine learning, containing 6,000 images per class. The dataset is divided into two main subsets: 50,000 images for training and 10,000 images for testing
+# Project Objective :
+Image Classification: The primary objective of this project is to develop a robust image classification model capable of correctly categorizing images into one of the ten predefined classes. These classes can represent various objects, animals, or scenes, making the project a valuable exercise in pattern recognition.
+Machine Learning Experimentation: The project serves as a practical exercise for exploring and experimenting with various machine learning algorithms and other classification models.
+Model Evaluation: Extensive model evaluation will be performed to assess the accuracy and performance of the trained models on the test dataset. Metrics like accuracy, precision, recall, and F1-score will be considered to measure the model's effectiveness.
